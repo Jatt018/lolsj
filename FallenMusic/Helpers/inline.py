@@ -45,8 +45,8 @@ buttons = InlineKeyboardMarkup(
             InlineKeyboardButton(text="▢", callback_data="end_cb"),
         ],
         [
-      InlineKeyboardButton(text="🖤 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 🖤", url=f"https://t.me/ll_ROYAL_CHATTING_ll"),
-      InlineKeyboardButton(text="🥀 𝚁𝙾𝚈𝙰𝙻 𝙽𝙴𝚃𝚆𝙾𝚁𝙺 🥵", url=f"https://t.me/OFFICIAL_ROYAL_NETWORK")
+      InlineKeyboardButton(text="🖤 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 🖤", url=f"https://t.me/Punjabi_study_hall"),
+      InlineKeyboardButton(text="🥀 𝙽𝙴𝚃𝚆𝙾𝚁𝙺 🥵", url=f"https://t.me/AboutPunjabi")
     ],
   ]
 )
@@ -61,12 +61,12 @@ pm_buttons = [
     ],
     [InlineKeyboardButton(text="🩸𝙷𝙴𝙻𝙿 𝙰𝙽𝙳 𝙲𝙼𝙳𝚂🩸", callback_data="fallen_help")],
     [
-      InlineKeyboardButton(text="🐣 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 🐣", url=f"https://t.me/ll_ROYAL_CHATTING_ll"),
-      InlineKeyboardButton(text="🍷 𝚁𝙾𝚈𝙰𝙻 𝙽𝙴𝚃𝚆𝙾𝚁𝙺 🌸", url=f"https://t.me/OFFICIAL_ROYAL_NETWORK")
+      InlineKeyboardButton(text="🐣 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 🐣", url=f"https://t.me/Punjabi_study_hall"),
+      InlineKeyboardButton(text="🍷 𝙽𝙴𝚃𝚆𝙾𝚁𝙺 🌸", url=f"https://t.me/AboutPunjabi")
     ],
     [
         InlineKeyboardButton(
-            text="🌱 𝚁𝙴𝙿𝙾 🌱", url="https://telegra.ph/file/0fc760cb0777ea04b7dfe.jpg"
+            text="🌱 𝚁𝙴𝙿𝙾 🌱", url="https://telegra.ph/file/a696147ea37e2a68f6a7e.jpg"
         ),
         InlineKeyboardButton(text="🥀𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁🥀", user_id=config.OWNER_ID),
     ],
@@ -81,12 +81,12 @@ gp_buttons = [
         )
     ],
     [
-      InlineKeyboardButton(text="🐣 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 🐣", url=f"https://t.me/ll_ROYAL_CHATTING_ll"),
-      InlineKeyboardButton(text="🍷 𝚁𝙾𝚈𝙰𝙻 𝙽𝙴𝚃𝚆𝙾𝚁𝙺 🌸", url=f"https://t.me/OFFICIAL_ROYAL_NETWORK")
+      InlineKeyboardButton(text="🐣 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 🐣", url=f"https://t.me/Punjabi_study_hall"),
+      InlineKeyboardButton(text="🍷 𝚁𝙾𝚈𝙰𝙻 𝙽𝙴𝚃𝚆𝙾𝚁𝙺 🌸", url=f"https://t.me/AboutPunjabi")
     ],
     [
         InlineKeyboardButton(
-            text="🌱 𝚁𝙴𝙿𝙾 🌱", url="https://telegra.ph/file/0fc760cb0777ea04b7dfe.jpg"
+            text="🌱 𝚁𝙴𝙿𝙾 🌱", url="https://telegra.ph/file/a696147ea37e2a68f6a7e.jpg"
         ),
         InlineKeyboardButton(text="🥀 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 🥀", user_id=config.OWNER_ID),
     ],
