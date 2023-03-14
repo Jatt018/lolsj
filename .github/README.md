@@ -9,7 +9,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/e4abc4ca5e4c71b5a29d9.jpg">
+  <img src="https://telegra.ph/file/a696147ea37e2a68f6a7e.jpg">
 </p>
 
 _**OFFICIAL ROYAL ➣ [🎧 ROYAL MUSIC BOT 🎧](https://t.me/Royal_MusixBot)**_
@@ -61,7 +61,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 Press `Ctrl+b` and then `d`
 
 <p align="center">
-  <img src="https://telegra.ph/file/e4abc4ca5e4c71b5a29d9.jpg">
+  <img src="https://telegra.ph/file/a696147ea37e2a68f6a7e.jpg">
 </p>
 
 </details>
