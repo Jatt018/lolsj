@@ -1,7 +1,7 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ── ╰ Ꭷғғɪᴄɪᴀʟ ✗ Ꮢᴏʏᴀʟ ╯ ──
+    ── ╰ PUNJABI
 
 
 
@@ -12,7 +12,7 @@
   <img src="https://telegra.ph/file/a696147ea37e2a68f6a7e.jpg">
 </p>
 
-_**OFFICIAL ROYAL ➣ [🎧 ROYAL MUSIC BOT 🎧](https://t.me/Royal_MusixBot)**_
+_**ᴘᴜɴᴊᴀʙɪ ➣ [🎧 ᴘᴜɴᴊᴀʙɪ MUSIC BOT 🎧](https://t.me/Punjabiiiii_music_bot)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 
@@ -72,10 +72,10 @@ Press `Ctrl+b` and then `d`
 </h3>
 
 <p align="center">
-<a href="https://t.me/ll_ROYAL_CHATTING_ll"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/PB02_WALA_JATT"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://t.me/OFFICIAL_ROYAL_NETWORK"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/PB02_WALA_JATT"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
